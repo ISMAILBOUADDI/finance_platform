@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <h1>Dashboard</h1>
-      <Button>Click me</Button>
+      {/* <Button>Click me</Button> */}
     </div>
   );
 }
