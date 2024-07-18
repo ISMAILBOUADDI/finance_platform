@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1721281896368,
+      "tag": "0000_nostalgic_fabian_cortez",
+      "breakpoints": true
+    }
+  ]
+}
